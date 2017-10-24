@@ -8,7 +8,7 @@ python portscan.py -H hostname -p ports (seperated by commas, eg: -p 21,22,80)
 
 # requirements
 
-pyFiglet
+-pyFiglet
 
 # installation
 
@@ -19,3 +19,7 @@ pip install pyfiglet
 # finally...
 
 Yes, it's simple but it's here for reference.
+
+# todo
+
+-remove pyFiglet requirement and replace with ascii text
